@@ -17,4 +17,4 @@ The added feature in my code is:
 2. ***BOTH SELLING AND PURCHASING ARE DONE AT ONE STROKE...***
 
 
-This makes ***us and the customer*** as well to know that we are out of stock!!
+This makes ***us and the customer*** as well to know about the availability of the items!!
