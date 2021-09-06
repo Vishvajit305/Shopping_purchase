@@ -11,7 +11,6 @@ It is also coded to sell the product to the market. ***When the customer wants t
 
 ***BOTH SELL AND PURCHASE ACT ARE SHOWN DIRECTLY AND THE DETAILS OF THE RECORDS ARE SHOWN IN THE BILLS, SO WE CAN SEE THE UPDATES.***
 
-***BOTH SELLING AND PURCHASING ARE DONE AT ONE STROKE...***
 
 The added feature in my code is: 
 1. ____Whenever the customer asks exceeding amount of items, it asks the customer that we have this amount only, is that ok!!!___ 
